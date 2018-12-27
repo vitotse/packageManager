@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
                       KMIT Project
                    DESC
 
-  spec.homepage     = "http://EXAMPLE/KMITLib"
+  spec.homepage     = "https://github.com/vitotse"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -39,7 +39,7 @@ Pod::Spec.new do |spec|
   #  Popular ones are 'MIT', 'BSD' and 'Apache License, Version 2.0'.
   #
 
-  spec.license      = "MIT (example)"
+  spec.license      = { :type => "MIT", :file => "License" }
   # spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
 
