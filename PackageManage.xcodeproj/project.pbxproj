@@ -15,6 +15,7 @@
 		BED750C121D471740087FAE8 /* PackageManageTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED750C021D471740087FAE8 /* PackageManageTests.swift */; };
 		BED750CC21D471740087FAE8 /* PackageManageUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED750CB21D471740087FAE8 /* PackageManageUITests.swift */; };
 		BED750DA21D4720B0087FAE8 /* PMConstant.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED750D921D4720B0087FAE8 /* PMConstant.swift */; };
+		BED7511621D5DBE20087FAE8 /* UserModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BED7511521D5DBE20087FAE8 /* UserModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BED750CB21D471740087FAE8 /* PackageManageUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PackageManageUITests.swift; sourceTree = "<group>"; };
 		BED750CD21D471740087FAE8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BED750D921D4720B0087FAE8 /* PMConstant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PMConstant.swift; sourceTree = "<group>"; };
+		BED7511521D5DBE20087FAE8 /* UserModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				BED750AB21D471710087FAE8 /* AppDelegate.swift */,
 				BED750AD21D471710087FAE8 /* ViewController.swift */,
 				BED750D921D4720B0087FAE8 /* PMConstant.swift */,
+				BED7511521D5DBE20087FAE8 /* UserModel.swift */,
 				BED750AF21D471710087FAE8 /* Main.storyboard */,
 				BED750B221D471740087FAE8 /* Assets.xcassets */,
 				BED750B421D471740087FAE8 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 			files = (
 				BED750DA21D4720B0087FAE8 /* PMConstant.swift in Sources */,
 				BED750AE21D471710087FAE8 /* ViewController.swift in Sources */,
+				BED7511621D5DBE20087FAE8 /* UserModel.swift in Sources */,
 				BED750AC21D471710087FAE8 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
